@@ -29,3 +29,11 @@ untuk menginstall beautifulsoup request hanya perlu mengetik di terminal python 
 pip install beautifulsoup
 ```
 ![pk14](https://user-images.githubusercontent.com/115356128/212861469-95505fa5-c2dd-44a3-8bdc-7f1000fef4b4.png)
+
+
+# Kode web scraping
+![scrapimg](https://user-images.githubusercontent.com/115356128/220273963-8dba2b66-85ab-4dff-98e1-4a313bc8e04b.png)
+
+# Hasil parsing web
+![scrapimg1](https://user-images.githubusercontent.com/115356128/220274029-e86ba9dd-6370-4922-912b-fc96a97c928d.png)
+
